@@ -1,0 +1,10 @@
+.ui.card.horizontal {
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  align-items: center;
+  padding: 0 10px;
+}
+.ui.card.horizontal img {
+  max-width: 175px;
+}
